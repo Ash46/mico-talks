@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  firstchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-08T06:05:42.229855619-04:00"
+    description: A Helm chart for Kubernetes
+    digest: d0d3d1fd3ed311cd889b5d464697a9525a97515275ffbf1eb75b6bc7efe3ac2e
+    name: firstchart
+    type: application
+    urls:
+    - https://ash46.github.io/mico-talks/firstchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-08T06:05:42.228883038-04:00"
